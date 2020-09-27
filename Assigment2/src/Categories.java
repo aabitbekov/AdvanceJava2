@@ -1,0 +1,6 @@
+ enum Categories {
+	 Laptops,
+	 Phones,
+	 
+
+}
